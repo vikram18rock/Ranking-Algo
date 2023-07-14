@@ -1,4 +1,4 @@
-# Ranking-Algorithm
+# Ranking-Algo
 
 Implemented a chess ranking algorithm to rank players by allotting ratings to each player and awarding each win and loss according to the rating of the opponent.
 
